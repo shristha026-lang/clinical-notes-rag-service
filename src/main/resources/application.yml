@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: clinical-notes-rag-service
+
+server:
+  port: 8080
+  error:
+    include-stacktrace: never
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+
+rag:
+  sample-data:
+    enabled: true
+  embedding:
+    dimensions: 512
+  chunk:
+    words: 60
+    overlap: 15
+  retrieval:
+    top-k: 4
+    min-score: 0.05
+  llm:
+    model: gpt-4o-mini
