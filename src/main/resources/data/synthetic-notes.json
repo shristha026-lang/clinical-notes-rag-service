@@ -1,0 +1,50 @@
+[
+  {
+    "id": "note-001",
+    "patientRef": "SYN-1001",
+    "type": "progress",
+    "text": "Synthetic record. Child aged 6 seen for home nursing visit. Asthma remains well controlled on inhaled fluticasone twice daily. No nighttime cough reported this week. Peak flow readings stable between 210 and 230. Parent asked about seasonal allergy triggers; reviewed avoidance plan. Next visit in two weeks. Contact parent at (555) 010-2233 for scheduling."
+  },
+  {
+    "id": "note-002",
+    "patientRef": "SYN-1002",
+    "type": "therapy",
+    "text": "Synthetic record. Physical therapy session 4 of 12 following left knee surgery. Range of motion improved from 85 to 100 degrees of flexion. Patient completed quad sets and heel slides with minimal pain, rated 2 of 10. Home exercise program updated to add stationary cycling for 10 minutes daily. Continue ice after sessions."
+  },
+  {
+    "id": "note-003",
+    "patientRef": "SYN-1003",
+    "type": "triage",
+    "text": "Synthetic record. Caregiver called reporting fever of 101.8 F since last evening and decreased oral intake. Child is alert and producing wet diapers. Advised fluids, antipyretic per weight-based dosing chart, and same-day pediatrician visit. Escalate to emergency care if breathing becomes labored or child is unusually drowsy. MRN 00482913 noted for routing."
+  },
+  {
+    "id": "note-004",
+    "patientRef": "SYN-1004",
+    "type": "progress",
+    "text": "Synthetic record. Type 1 diabetes management visit. Continuous glucose monitor shows time in range of 68 percent, up from 61 percent last month. Two low readings below 70 overnight on 03/14/2026; basal insulin reduced by 0.5 units per endocrinology order. Reviewed carbohydrate counting with family and confirmed glucagon kit is not expired."
+  },
+  {
+    "id": "note-005",
+    "patientRef": "SYN-1005",
+    "type": "nursing",
+    "text": "Synthetic record. Private duty nursing shift, 8 hours. Tracheostomy site clean and dry, no redness. Suctioned three times for moderate white secretions. Oxygen saturation 96 to 98 percent on 0.5 liters. Gastrostomy feeds tolerated at 60 ml per hour without residuals. Mother updated at end of shift."
+  },
+  {
+    "id": "note-006",
+    "patientRef": "SYN-1006",
+    "type": "therapy",
+    "text": "Synthetic record. Speech therapy session focused on expressive language. Child produced two-word phrases in 14 of 20 opportunities, up from 9 of 20. Introduced picture exchange cards for requests at mealtime. Parent coached on modeling and expansion strategies. Goal review scheduled for next month."
+  },
+  {
+    "id": "note-007",
+    "patientRef": "SYN-1007",
+    "type": "triage",
+    "text": "Synthetic record. Parent reports new rash on arms and trunk after starting amoxicillin two days ago. No swelling of lips or tongue and no wheezing. Advised to hold next dose and contact prescribing provider today for possible drug allergy. Documented as suspected penicillin allergy pending provider review. Test identifier 123-45-6789 is fake and used only to demonstrate redaction."
+  },
+  {
+    "id": "note-008",
+    "patientRef": "SYN-1008",
+    "type": "progress",
+    "text": "Synthetic record. Infant feeding follow-up. Weight gain 28 grams per day over the past two weeks, meeting goal. Breastfeeding every 2 to 3 hours with supplemental expressed milk once daily. Mild reflux symptoms improved with upright positioning after feeds. Parent email synthetic.parent@example.com for education handouts."
+  }
+]
